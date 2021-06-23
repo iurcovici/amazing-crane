@@ -46,7 +46,7 @@
             },
             {
                 "label": "test",
-                "url": "#",
+                "url": "https://app.stackbit.com/studio/60d3196090bf07001836e704#/test",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
