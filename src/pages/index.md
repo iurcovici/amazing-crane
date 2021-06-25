@@ -13,7 +13,7 @@ sections:
 
       using the programming languages such as Wordpess, CSS, Java, React and
       HTML
-    image: /images/blog2.jpg
+    image: /images/wp2387322.jpg
     image_alt: App preview
     actions:
       - type: action
