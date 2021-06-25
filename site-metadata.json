@@ -33,7 +33,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Style Guide",
+                "label": "Our projects",
                 "url": "/style-guide",
                 "style": "link"
             },
