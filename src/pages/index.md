@@ -5,9 +5,11 @@ sections:
     template: section_hero
     section_id: hero
     title: WebDevelopers
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |+
+      Any business starting from the smallest, needs a successful site
+       We are a team of developers focused on customer needs and we can help you develop a successful business 
+
+
     image: images/hero.png
     image_alt: App preview
     actions:
