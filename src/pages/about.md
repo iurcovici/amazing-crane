@@ -1,8 +1,9 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Informational Websites Corporate Websites Promotional Websites One Page
+  Websites Job Portal Websites eCommerce Websites Online Shops Online Portfolios
+  Personal Blogs
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
