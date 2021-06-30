@@ -32,27 +32,23 @@ seo:
       relativeUrl: true
 template: page
 ---
-*   CMS Websites
+**CMS Websites                                                                              One Page Websites
+**
+
+**Corporate Websites                                                                Jamstack Websites
+**
+
+**Promotional Websites                                                           eCommerce Websites
+**
+
+
+
+
+*
 
 <!---->
 
-*   Corporate Websites
-
-<!---->
-
-*   Promotional Websites
-
-<!---->
-
-*   One Page Websites
-
-<!---->
-
-*   Jamstack Websites
-
-<!---->
-
-*   eCommerce Websites
+*
 
 <!---->
 
@@ -65,3 +61,7 @@ template: page
 <!---->
 
 *   Personal Blogs
+
+<!---->
+
+*
