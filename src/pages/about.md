@@ -1,9 +1,5 @@
 ---
 title: About Us
-subtitle: >-
-  Informational Websites Corporate Websites Promotional Websites One Page
-  Websites Job Portal Websites eCommerce Websites Online Shops Online Portfolios
-  Personal Blogs
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
