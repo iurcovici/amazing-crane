@@ -13,7 +13,7 @@ sections:
 
       using the programming languages such as Wordpess, CSS, Java, React, HTML
       and more.
-    image: /images/unnamed.png
+    image: /images/evelopment-near-me.png
     image_alt: App preview
     actions:
       - type: action
