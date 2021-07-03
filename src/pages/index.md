@@ -5,14 +5,14 @@ sections:
     template: section_hero
     section_id: hero
     title: IT Services for Home and Business
-    content: >
+    content: >+
       Any business starting from the smallest, needs a successful website.
 
-      We are a team of developers focused on customer needs and we can help you
-      develop a successful business,
+      We are a team of IT Specialists focused on customer needs and we can help
+      you develop a successful business,
 
-      using the programming languages such as Wordpess, CSS, Java, React, HTML
-      and more.
+      ofering you next services :
+
     image: /images/square-kale.png
     image_alt: App preview
     actions:
