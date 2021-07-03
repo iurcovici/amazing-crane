@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: WebDevelopers
+    title: IT Services for Home and Business
     content: >
       Any business starting from the smallest, needs a successful website.
 
