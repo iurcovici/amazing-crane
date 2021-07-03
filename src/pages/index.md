@@ -32,7 +32,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: The Best Feature of Your Services
+        title: Web Developing
         content: >
           We can develop your website using the programming languages such as
           Wordpess, CSS, Java, React, HTML,JamStack and more.
