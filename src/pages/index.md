@@ -38,7 +38,7 @@ sections:
           Wordpess, CSS, Java, React, HTML,JamStack and more.
 
           also we can help you to choose best hosting prices for CMS 
-        image: images/feature1.png
+        image: /images/evelopment-near-me.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
