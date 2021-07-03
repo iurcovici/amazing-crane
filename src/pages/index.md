@@ -33,10 +33,11 @@ sections:
       - type: feature_item
         template: feature_item
         title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We can develop your website using the programming languages such as
+          Wordpess, CSS, Java, React, HTML,JamStack and more.
+
+          also we can help you to choose best hosting prices for CMS 
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
