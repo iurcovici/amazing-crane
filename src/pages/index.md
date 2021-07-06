@@ -9,8 +9,8 @@ sections:
       Any business starting from the smallest, needs a successful website,a well
       setup networking and CCTV security
 
-      We are a team of IT Specialists focused on customer needs and we can help
-      you develop a successful business,
+      We are a team of IT Specialists  with 18 years of experience focused on
+      customer needs and we can help you develop a successful business,
 
       ofering you next services :
     image: /images/square-kale.png
