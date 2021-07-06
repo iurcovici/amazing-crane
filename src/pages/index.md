@@ -76,7 +76,7 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: /images/smart-home-in-west-sussex.png
+        image: /images/EVqBiBCX0AEv3Vo (1).jpg
         image_alt: App user profile preview
         actions:
           - type: action
