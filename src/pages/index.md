@@ -76,7 +76,7 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: /images/wireless-networking-service-500x500.png
+        image: /images/smart-house-in-west-sussex.png
         image_alt: App user profile preview
         actions:
           - type: action
