@@ -76,8 +76,7 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: >-
-          /images/png-transparent-window-home-automation-kits-architectural-engineering-door-window-furniture-building-photography.png
+        image: /images/smart-home-in-west-sussex.png
         image_alt: App user profile preview
         actions:
           - type: action
