@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: IT Services for Home and Business
+    title: IT Services
     content: >
       Any business starting from the smallest, needs a successful website,a well
       setup networking and CCTV security
