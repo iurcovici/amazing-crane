@@ -8,7 +8,7 @@ excerpt: >-
   amet commodo massa.
 image: images/3.jpg
 image_alt: A group of people working in a cafe
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/EVqBiBCX0AEv3Vo (1).jpg
 thumb_image_alt: A group of people working in a cafe
 seo:
   type: stackbit_page_meta
