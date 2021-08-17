@@ -104,6 +104,12 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
       - type: review_item
         template: review_item
         author: Parsley Montana
