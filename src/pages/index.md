@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/pc-repairs-in-crawley.png
+    image: /images/elektro-2.jpg
     image_alt: App preview
     actions:
       - type: action
