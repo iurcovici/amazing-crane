@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/01_2x.jpg
+    image: /images/372-3720645_on-site-pc-mac-computer-service-repair-upgrade.png
     image_alt: App preview
     actions:
       - type: action
