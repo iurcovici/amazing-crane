@@ -106,7 +106,7 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "Blog",
+                        "label": "PC Repairs",
                         "url": "/blog",
                         "style": "link"
                     },
