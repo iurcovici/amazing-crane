@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/smart-home-in-west-sussex.png
+    image: /images/EVqBiBCX0AEv3Vo (1).jpg
     image_alt: App preview
     actions:
       - type: action
