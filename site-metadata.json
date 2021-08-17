@@ -99,7 +99,7 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "About Us",
+                        "label": "Home",
                         "url": "/about",
                         "style": "link"
                     },
