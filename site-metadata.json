@@ -37,7 +37,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Pricing",
+                "label": "Network Solutions",
                 "url": "/pricing",
                 "style": "link"
             },
