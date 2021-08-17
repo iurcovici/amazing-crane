@@ -19,7 +19,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "SERVICES",
+                "label": "Computer Repair",
                 "url": "/features",
                 "style": "link"
             },
