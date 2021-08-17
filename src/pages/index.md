@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/EVqBiBCX0AEv3Vo (1).jpg
+    image: /images/8.jpg
     image_alt: App preview
     actions:
       - type: action
