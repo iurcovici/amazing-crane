@@ -90,7 +90,7 @@ sections:
   - type: section_reviews
     template: section_reviews
     section_id: reviews
-    title: Testimonials
+    title: WHAT PEOPLE SAY
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
