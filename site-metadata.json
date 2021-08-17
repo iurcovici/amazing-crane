@@ -113,7 +113,7 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "Sign Up",
+                        "label": "Mobile Repairs",
                         "url": "/signup",
                         "style": "link"
                     },
