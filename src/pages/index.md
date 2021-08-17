@@ -106,7 +106,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Adrian Apreotesei
         avatar_alt: lorem-ipsum
-        content: They build a best website for me ( adinet.md)
+        content: They build a best website for me
         type: review_item
       - type: review_item
         template: review_item
