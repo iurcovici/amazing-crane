@@ -104,7 +104,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: lorem-ipsum
+      - author: Adrian Apreotesei
         avatar_alt: lorem-ipsum
         content: They build a best website for me
         type: review_item
