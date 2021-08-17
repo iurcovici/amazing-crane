@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/wireless-networking-service-500x500.png
+    image: /images/smart-home-in-west-sussex.png
     image_alt: App preview
     actions:
       - type: action
