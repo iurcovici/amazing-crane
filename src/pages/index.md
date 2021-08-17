@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/168-1682717_surbiton-computer-repairs-pc-repair-icon-png.png
+    image: /images/square-kale.png
     image_alt: App preview
     actions:
       - type: action
