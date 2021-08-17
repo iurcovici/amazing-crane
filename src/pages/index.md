@@ -13,7 +13,7 @@ sections:
       customer needs and we can help you develop a successful business,
 
       ofering you next services :
-    image: /images/square-kale.png
+    image: /images/pc-repairs-in-crawley.png
     image_alt: App preview
     actions:
       - type: action
